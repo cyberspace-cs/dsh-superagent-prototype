@@ -1,5 +1,7 @@
 # dsh-superagent
 
+> **来源说明 / Source notice**：本仓库是 [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype) 的同步镜像，用于中文技术社区学习与架构拆解。代码与文档版权归 DeepSeek Harness Team 所有，遵循 [MIT 许可](LICENSE)。本仓库不声称原创，上游更新后会同步。中文架构导读见 [docs/009-architecture-zh.md](docs/009-architecture-zh.md)。
+
 > **Research prototype for reference only, not an official DeepSeek product.** This code grew out of our team's day-to-day development work, with much of the engineering done by coding agents. Treat it as research code, not production-ready software. It may still contain bugs, and its coding style and engineering practices may be inconsistent. Review and adapt it before using it in your own environment.
 >
 > We have adapted it for publication, so it is not identical to our internal version or the implementation described in *Exploring Super-agent Design: Towards a More Autonomous Agent System*. Some designs discussed in the article are directions for future development and are not implemented in this prototype.
